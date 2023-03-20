@@ -10,6 +10,7 @@
 int main(void)
 {
 	int p, d;
+
 	for (p = 0; p <= 98; p++)
 	{
 	for (d = p + 1; d <= 99; d++)
