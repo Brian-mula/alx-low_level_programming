@@ -1,5 +1,6 @@
 #include<unistd.h>
-/** main- prints and that piece of art is useful - Dora Korpar, * followed by anew line to the standard error
+/** main- prints and that piece of art is useful - Dora Korpar,
+ * followed by anew line to the standard error
  * always returns 1
  **/
 
