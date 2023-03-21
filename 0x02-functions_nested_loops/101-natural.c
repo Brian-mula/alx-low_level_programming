@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main =Prints the sum
+ * main - Prints the sum
  * Return: Always (Success)
  */
 
