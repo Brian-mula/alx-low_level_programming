@@ -9,6 +9,7 @@ int _abs(int c)
 	if (c < 0)
 	{
 	int abs_bal;
+
 	abs_bal = c * -1;
 	return (abs_bal);
 	}
