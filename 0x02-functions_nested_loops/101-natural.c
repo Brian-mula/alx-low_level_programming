@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - Prints the sum
+ * the sum should be less
  * Return: Always (Success)
  */
 
