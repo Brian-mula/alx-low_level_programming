@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
- * 
  * *_strpbrk - for checking strings
  *
  * @s: checked string
