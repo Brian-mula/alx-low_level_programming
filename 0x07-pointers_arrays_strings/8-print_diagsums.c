@@ -20,7 +20,6 @@ void print_diagsums(int *a, int size)
 		a += size;
 	}
 	a -= size;
-
 	for (position = 0; position < size; position++)
 	{
 		secondsum += a[position];
