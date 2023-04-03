@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * * _strpbrk - for searching string
+ * 
+ * *_strpbrk - for checking strings
  *
  * @s: checked string
  * @accept: the string being looked for
