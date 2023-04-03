@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_diagsums - for print sum of two diagnols
+ * print_diagsums - for printing sum of two diagnols of a square matrix
  *
- * @n: integer matrix
+ * @n: it is an integer matrix
  *
  * @size: size of matrix
  *
