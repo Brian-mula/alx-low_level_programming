@@ -4,8 +4,8 @@
  * *_strpbrk - for checking strings
  *
  * @s: checked string
- * @accept: the string being looked for
- * Return: string
+ * @accept: the the character being searched being looked for
+ * Return: character
  */
 
 char *_strpbrk(char *s, char *accept)
