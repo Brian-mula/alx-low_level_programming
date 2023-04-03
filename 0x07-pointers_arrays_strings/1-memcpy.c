@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _memory - to copy content
+ * * _memory - to copy content
  * @src: pointer to source
  * @dest: pointer to destination
  * @n: bytes number
@@ -15,7 +15,7 @@ unsigned int i;
 
 for (i = 0; i < n; i++)
 {
-	*(dest +i) = *(src + i);
+	*(dest + i) = *(src + i);
 }
 	return (dest);
 }
