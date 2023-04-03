@@ -2,9 +2,12 @@
 
 /**
  * *_memset - fills the memory location pointed to by @s with the first constant byte of @b for the first @n bytes
- * @*s: filled memeory pointer
+ * @s: filled memeory pointer
+ *
  * @b: filled up value
+ *
  * @n: memory size
+ *
  * Return: Pointer to *s
  */
 
