@@ -2,8 +2,10 @@
 #include <stdio.h>
 
 /**
- * print_diagrams - for print sum of two diagnols
+ * print_diagsums - for print sum of two diagnols
+ *
  * @n: integer matrix
+ *
  * @size: size of matrix
  *
  */
