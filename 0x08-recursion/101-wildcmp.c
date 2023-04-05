@@ -4,6 +4,7 @@
  * wildcmp - string comparison
  * @s1: first string
  * @s2: second string
+ * Return: returns string
  *
  */
 
