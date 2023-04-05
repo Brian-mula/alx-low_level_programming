@@ -41,6 +41,6 @@ int is_prime_number(int n)
 	}
 	else
 	{
-		return (prime(3,n));
+		return (prime(3, n));
 	}
 }
