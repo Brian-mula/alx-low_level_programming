@@ -2,7 +2,6 @@
 #include <stdlib.h>
 /**
  *create_array -  create memory of size size
- *             
  *@size: size of bytes in memory
  *@c: char to initialize with the array
  *Return: Depends with the condition
