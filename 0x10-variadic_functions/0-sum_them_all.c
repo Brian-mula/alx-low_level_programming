@@ -5,6 +5,7 @@
 /**
 * sum_them_all - for adding its parameters
 * @n: number of arguments
+* @...: ....
 * Return: depends on the condition
 */
 int sum_them_all(const unsigned int n, ...)
